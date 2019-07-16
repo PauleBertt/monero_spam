@@ -1,0 +1,17 @@
+
+/monero_files/monero-blockchain-mark-spent-outputs
+/monero_files/monero-gen-trusted-multisig
+/monero_files/monero-blockchain-usage
+/monero_files/monero-wallet-cli
+/monero_files/monero-blockchain-export
+/monero_files/monero-wallet-cli.log
+/monero_files/monero-wallet-rpc
+/monero_files/monero-blockchain-depth
+/monero_files/monerod
+/monero_files/monero-blockchain-import
+/venv
+/stage_log.log
+/.idea
+/monero_files/stage_wallet.address.txt
+/monero_files/stage_wallet.keys
+/monero_files/stage_wallet
